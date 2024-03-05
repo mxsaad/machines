@@ -1,0 +1,8 @@
+# gitignore
+
+# ignore .vagrant folders in all subfolders
+**/.vagrant
+
+# ignore Mac OS X system files
+.DS_Store
+.localized
